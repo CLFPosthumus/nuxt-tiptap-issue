@@ -1,0 +1,40 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0"
+  },
+  "dependencies": {
+    "@tiptap/extension-bubble-menu": "2.0.0-beta.209",
+    "@tiptap/extension-character-count": "2.0.0-beta.209",
+    "@tiptap/extension-code": "2.0.0-beta.209",
+    "@tiptap/extension-code-block-lowlight": "2.0.0-beta.209",
+    "@tiptap/extension-heading": "2.0.0-beta.209",
+    "@tiptap/extension-highlight": "2.0.0-beta.209",
+    "@tiptap/extension-image": "2.0.0-beta.209",
+    "@tiptap/extension-link": "2.0.0-beta.209",
+    "@tiptap/extension-placeholder": "2.0.0-beta.209",
+    "@tiptap/extension-text-align": "2.0.0-beta.209",
+    "@tiptap/extension-underline": "2.0.0-beta.209",
+    "@tiptap/extension-youtube": "2.0.0-beta.209",
+    "@tiptap/starter-kit": "2.0.0-beta.209",
+    "@tiptap/core": "2.0.0-beta.209",
+    "@tiptap/vue-3": "2.0.0-beta.209",
+    "@iconify-prerendered/vue-bi": "^0.10.1661750918",
+    "@iconify-prerendered/vue-bx": "^0.10.1656181453",
+    "@iconify-prerendered/vue-bxl": "^0.10.1656181467",
+    "@iconify-prerendered/vue-bxs": "^0.10.1656181481",
+    "@iconify-prerendered/vue-fa6-brands": "^0.10.1658815495",
+    "@iconify-prerendered/vue-fa6-regular": "^0.10.1658815514",
+    "@iconify-prerendered/vue-fa6-solid": "^0.10.1658815533",
+    "@iconify-prerendered/vue-gridicons": "^0.10.1656182208",
+    "@iconify-prerendered/vue-logos": "^0.11.1662097923",
+    "@iconify-prerendered/vue-material-symbols": "^0.10.1660285568"
+   }
+}
